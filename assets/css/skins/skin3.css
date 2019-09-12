@@ -1,0 +1,52 @@
+.header-section .logo a span{
+  color: #ff9800;
+}
+
+.main-color,
+.service-item i,
+.resume-item .resume-right h2:after,
+.owl-nav div,
+.contact-info i {
+	color: #ff9800;
+}
+
+.bg-color,
+.site-btn,
+.bar-inner,
+.resume-item .resume-right:after,
+.owl-nav div:hover,
+.blog-item:after {
+	background: #ff9800;
+
+}
+.header-section .menu-list li a:after {
+	background: #ff9800;
+}
+.section-title h2:before {
+    background: #ff9800;
+}
+
+.site-btn.btn-outline {
+    color: #ff9800;
+    border: 2px solid #ff9800;
+}
+
+.social i {
+	background: #ff9800;
+}
+
+.social-share a{
+	color: #ff9800;
+}
+
+.portfolio-filter li.active {
+	color: #ff9800;
+}
+
+#testimonial-carousel  .owl-nav div {
+	color: #ff9800;
+}
+
+.single-tag{
+	background: #ff9800;
+}
